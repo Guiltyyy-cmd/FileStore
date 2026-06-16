@@ -8,23 +8,23 @@ OWNER_ID = 7537243058
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "" # shortner url 
-SHORT_API = "" 
-SHORT_TUT = ""
+SHORT_URL = "vplink.in" # shortner url 
+SHORT_API = "4a98bc00521b68207331e70bd5ebe380e8a855e8" 
+SHORT_TUT = "https://t.me/Tutorialfyy"
 
 # Bot Configuration
 SESSION = "LustyDormNeT"
-TOKEN = ""
-API_ID = ""
-API_HASH = ""
+TOKEN = "8849094455:AAGZKv4aC1gIt71wfMmc_I2x2Awdzx5RRv8"
+API_ID = "31761013"
+API_HASH = "3d55d62014467b2a922c6c0d6d95deae"
 WORKERS = 5
 
-DB_URI = ""
+DB_URI = "mongodb+srv://dubbingroup29_db_user:itsyashjha@immortaldata.ojaeaxj.mongodb.net/?retryWrites=true&w=majority"
 DB_NAME = "Yae_Probot"
 
 FSUBS = [[-1003819872917, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =  -1003982607035  # just put channel id dont add ""
+DB_CHANNEL =  -1004305490094  # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
@@ -33,7 +33,7 @@ DB_CHANNEL =  -1003982607035  # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [6497757690, 6103092779]
+ADMINS = [8390385946, 7537243058]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = False
